@@ -1,5 +1,6 @@
-# playerpositonpredictor
+# FIFA ScoutPro
 
-The purpose of this project is to classify the football players to the most suitable position using the knn algorithm and to test the accuracy of the algorithm.
-The classification is done based on several attributes of the players taken from the 
-FIFA18 dataset. 
+* Performed EDA to identify patterns and correlations between player attributes and their ratings
+* Classified players into broader position categories and compared their attributes to find correlations
+* Implemented k-Nearest Neighbors (k-NN) and Random Forest algorithms to predict best suited positions
+* Achieved F1 scores of 0.64 and 0.68 respectively for the prediction models
