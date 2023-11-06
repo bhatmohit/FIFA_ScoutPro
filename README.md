@@ -1,5 +1,7 @@
 # FIFA ScoutPro
 
+**Goal:** To develop a model that would help scouts pick best players for their teams by identifying patterns and relationships between different variables, including age, position and physical attributes.
+
 The project is divided into two parts: **FIFA_Analysis** and **FIFA_Prediction**
 
 **FIFA_Analysis** attempts to analyze the relationship between different player attributes, and answer the following questions
@@ -9,7 +11,6 @@ The project is divided into two parts: **FIFA_Analysis** and **FIFA_Prediction**
 After finding the correlation between player positions and their attributes, a prediction model is built.
 
 **FIFA_Prediction** deals with developing a prediction model to find the best suited positions for players. 
-<br/>
-<br/>Two algorithms are implemented: **KNN** and **Random Forest**.
-These models are evaluated using metrics such as Precision, Sensitivity and F1 score and their results are compared.
+* Two algorithms are implemented: **KNN** and **Random Forest**.
+* These models are evaluated using metrics such as Precision, Sensitivity and F1 score and their results are compared.
 
